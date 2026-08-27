@@ -1,0 +1,12 @@
+# Java compiled files
+*.class
+bin/
+out/
+
+# macOS metadata
+.DS_Store
+
+# VS Code Java Extension
+.classpath
+.project
+.settings/
