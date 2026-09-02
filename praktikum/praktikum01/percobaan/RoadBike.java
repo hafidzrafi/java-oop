@@ -1,4 +1,4 @@
-package praktikum.praktikum01.percobaan1;
+package praktikum.praktikum01.percobaan;
 
 public class RoadBike extends Bike {
     private int tireWidth;

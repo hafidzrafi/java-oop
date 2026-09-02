@@ -1,4 +1,4 @@
-package praktikum.praktikum01.percobaan1;
+package praktikum.praktikum01.percobaan;
 
 public class Bike {
     private String brand;
@@ -12,7 +12,7 @@ public class Bike {
     }
 
     public void gearChanges(int gearValue) {
-        if (gearValue < 1 || gearValue > 5) {
+        if (gearValue < 1 || gearValue > 6) {
             System.out.println("Invalid gear value. Gear must be between 1 and 6");
         }
         else {
