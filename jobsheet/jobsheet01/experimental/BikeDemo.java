@@ -1,4 +1,4 @@
-package praktikum.praktikum01.percobaan;
+package jobsheet.jobsheet01.experimental;
 
 public class BikeDemo {
     public static void main(String[] args) {

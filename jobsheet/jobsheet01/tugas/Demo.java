@@ -1,4 +1,4 @@
-package praktikum.praktikum01.tugas;
+package jobsheet.jobsheet01.tugas;
 
 public class Demo {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package praktikum.praktikum01.percobaan;
+package jobsheet.jobsheet01.experimental;
 
 public class Bike {
     private String brand;

@@ -1,4 +1,4 @@
-package praktikum.praktikum02.percobaan;
+package jobsheet.jobsheet02.experimental2;
 
 public class TestMahasiswa {
     public static void main(String[] args) {
