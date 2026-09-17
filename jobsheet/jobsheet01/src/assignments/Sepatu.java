@@ -1,4 +1,4 @@
-package jobsheet.jobsheet01.tugas;
+package jobsheet.jobsheet01.src.assignments;
 
 public class Sepatu {
     String brand = "Nike";

@@ -1,4 +1,4 @@
-package jobsheet.jobsheet01.experimental;
+package jobsheet.jobsheet01.src.experiments;
 
 public class BikeDemo {
     public static void main(String[] args) {

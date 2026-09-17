@@ -1,4 +1,4 @@
-package jobsheet.jobsheet02.assignments;
+package jobsheet.jobsheet02.src.assignments;
 
 public class TestPeminjaman {
     public static void main(String[] args) {

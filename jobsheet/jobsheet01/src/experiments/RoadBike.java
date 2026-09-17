@@ -1,4 +1,4 @@
-package jobsheet.jobsheet01.experimental;
+package jobsheet.jobsheet01.src.experiments;
 
 public class RoadBike extends Bike {
     private int tireWidth;

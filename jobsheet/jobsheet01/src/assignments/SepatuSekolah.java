@@ -1,4 +1,4 @@
-package jobsheet.jobsheet01.tugas;
+package jobsheet.jobsheet01.src.assignments;
 
 public class SepatuSekolah extends Sepatu {
     String warnaTali = "Hitam";

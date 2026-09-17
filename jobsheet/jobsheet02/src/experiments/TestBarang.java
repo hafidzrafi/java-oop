@@ -1,4 +1,4 @@
-package jobsheet.jobsheet02.experimental3;
+package jobsheet.jobsheet02.src.experiments;
 
 public class TestBarang {
     public static void main(String[] args) {

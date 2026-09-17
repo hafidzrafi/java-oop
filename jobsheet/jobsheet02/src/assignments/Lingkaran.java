@@ -1,4 +1,4 @@
-package jobsheet.jobsheet02.assignments;
+package jobsheet.jobsheet02.src.assignments;
 
 public class Lingkaran {
     public double phi = Math.PI;

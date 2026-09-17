@@ -1,4 +1,4 @@
-package jobsheet.jobsheet01.tugas;
+package jobsheet.jobsheet01.src.assignments;
 
 public class KipasAngin {
     int kecepatan = 0; // 0 = Mati, 1 = Rendah, 2 = Sedang, 3 = Kencang
