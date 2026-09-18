@@ -38,7 +38,7 @@
       ```
 
       #align(center)[
-        #image("ss01_motor_demo_awal.png", width: 80%)
+        #image("../screenshots/ss01_motor_demo_awal.png", width: 80%)
       ]
     ],
     langkah: (),
@@ -63,7 +63,7 @@
       ```
 
       #align(center)[
-        #image("ss02_motor_demo_enkapsulasi.png", width: 80%)
+        #image("../screenshots/ss02_motor_demo_enkapsulasi.png", width: 80%)
       ]
     ],
     langkah: (),
@@ -98,7 +98,7 @@
       ```
 
       #align(center)[
-        #image("ss03_koperasi_getter_setter.png", width: 80%)
+        #image("../screenshots/ss03_koperasi_getter_setter.png", width: 80%)
       ]
     ],
     langkah: (),
@@ -119,7 +119,7 @@
       ```
 
       #align(center)[
-        #image("ss04_koperasi_konstruktor.png", width: 80%)
+        #image("../screenshots/ss04_koperasi_konstruktor.png", width: 80%)
       ]
     ],
     langkah: (),
@@ -186,7 +186,7 @@
       Pada `EncapTest`, ketika nilai `age` diisi 35 lewat `encap.setAge(35)`, output yang tampil di konsol tetap 30 karena terjaring oleh validasi `age > 30`.
 
       #align(center)[
-        #image("ss05_encap_test.png", width: 80%)
+        #image("../screenshots/ss05_encap_test.png", width: 80%)
       ]
     ],
   ),
@@ -213,7 +213,7 @@
       Saat diuji coba memasukkan muatan 6.000 kg, sistem menolak karena kapasitas maksimal kontainer hanya 5.000 kg.
 
       #align(center)[
-        #image("ss06_test_logistik.png", width: 80%)
+        #image("../screenshots/ss06_test_logistik.png", width: 80%)
       ]
     ],
   ),
@@ -240,7 +240,7 @@
       ```
 
       #align(center)[
-        #image("ss07_test_bioskop.png", width: 80%)
+        #image("../screenshots/ss07_test_bioskop.png", width: 80%)
       ]
     ],
   ),
