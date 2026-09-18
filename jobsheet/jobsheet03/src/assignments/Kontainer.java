@@ -37,10 +37,14 @@ public class Kontainer {
     }
 
     public void turunMuatan(float jumlah) {
-        if (beratMuatanSaatIni-jumlah >= 0) {
-            beratMuatanSaatIni -= jumlah;
+        if (jumlah > beratMuatanSaatIni/2) {
+            System.out.println("Maaf, demi keselamatan, pembongkaran muatan satu kali jalan tidak boleh melebihi 50% dari muatan saat ini!");
         } else {
-            System.out.println("Jumlah yang diturunkan melebihi jumlah yang ada.");
+            if (beratMuatanSaatIni-jumlah >= 0) {
+                beratMuatanSaatIni -= jumlah;
+            } else {
+                System.out.println("Jumlah yang diturunkan melebihi jumlah yang ada.");
+            }
         }
     }
 }
