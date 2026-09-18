@@ -23,7 +23,7 @@ public class TestLogistik {
             } else if (pilihan == 2) {
                 System.out.print("Masukkan jumlah muatan yang akan dibongkar: ");
                 float jumlah = input.nextFloat(); input.nextLine();
-                kontainerAlfa.turunMuatan(jumlah);
+                kontainerAlfa.turunkanMuatan(jumlah);
                 System.out.println("Berat muatan saat ini: " + kontainerAlfa.getBeratMuatanSaatIni() + " kg");
             } else if (pilihan == 3) {
                 break;
