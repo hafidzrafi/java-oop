@@ -8,6 +8,7 @@
   nim: "254107020084",
   class: "2H",
   absent: "14",
+  repository: "https://github.com/hafidzrafi/java-oop",
   footer_text: "Pemrograman Berbasis Objek - Jobsheet 06",
   study_program: "PROGRAM STUDI TEKNIK INFORMATIKA",
   department: "JURUSAN TEKNOLOGI INFORMASI",
@@ -24,6 +25,7 @@
   "Memahami siklus hidup inisialisasi memori objek (object initialization lifecycle) dan alur eksekusi constructor chaining.",
   "Mengimplementasikan berbagai jenis inheritance: Single Inheritance, Multilevel Inheritance, Hierarchical Inheritance, dan Hybrid Inheritance.",
   "Membangun sistem studi kasus berbasis pewarisan dengan enkapsulasi data yang aman dan terstruktur.",
+  [Menyimpan dan mendokumentasikan seluruh source code pekerjaan pada repositori GitHub resmi: #link("https://github.com/hafidzrafi/java-oop")[https://github.com/hafidzrafi/java-oop].],
 ))
 
 #praktikum(data: (
