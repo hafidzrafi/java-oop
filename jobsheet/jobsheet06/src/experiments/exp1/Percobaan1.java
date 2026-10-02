@@ -1,4 +1,4 @@
-package jobsheet.jobsheet06.src.experiments;
+package jobsheet.jobsheet06.src.experiments.exp1;
 
 public class Percobaan1 {
     public static void main(String[] args) {
