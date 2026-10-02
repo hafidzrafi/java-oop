@@ -11,6 +11,10 @@ public class Tiket {
         return hargaDasar;
     }
 
+    public void setHargaDasar(int hargaDasar) {
+        this.hargaDasar = hargaDasar;
+    }
+
     public Tiket() {}
 
     public Tiket(String kodeTiket, String namaPenumpang, String asal, String tujuan, int hargaDasar) {
