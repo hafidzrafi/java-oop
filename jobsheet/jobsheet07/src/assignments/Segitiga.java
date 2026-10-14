@@ -4,11 +4,13 @@ public class Segitiga {
     private int sudut;
 
     public int totalSudut(int sudutA) {
-        return 180 - sudutA;
+        this.sudut = 180 - sudutA;
+        return this.sudut;
     }
 
     public int totalSudut(int sudutA, int sudutB) {
-        return 180 - sudutA - sudutB;
+        this.sudut = 180 - (sudutA + sudutB);
+        return this.sudut;
     }
 
     public int keliling(int sisiA, int sisiB, int sisiC) {
@@ -16,6 +18,6 @@ public class Segitiga {
     }
 
     public double keliling(int sisiA, int sisiB) {
-        return sisiA + sisiB + (Math.hypot(sisiA, sisiB));
+        return sisiA + sisiB + Math.hypot(sisiA, sisiB);
     }
 }
