@@ -1,4 +1,4 @@
-package assignment;
+package assignment.quiz1;
 
 public class SpaceShuttle {
     private String kode;
