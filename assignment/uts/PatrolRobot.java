@@ -5,7 +5,7 @@ public class PatrolRobot extends Robot {
 
     public PatrolRobot(String name, int cpuspeed, int power, Battery battery) {
         this.RobotBattery = battery;
-        this.Name = "PATROL-14-" +name;
+        this.Name = "PATROL<14>" +name;
         this.CPUSpeed = cpuspeed;
         this.Power = power;
     }
