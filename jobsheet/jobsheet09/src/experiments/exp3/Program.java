@@ -10,8 +10,7 @@ public class Program {
         // pakRektor.beriSertifikatCumlaude(masterCumlaude);
 
         // sarjanaCumlaude belum mengimplementasikan IBerprestasi:
-        // pakRektor.beriSertifikatMawapres(sarjanaCumlaude);
-
+        pakRektor.beriSertifikatMawapres(sarjanaCumlaude);
         pakRektor.beriSertifikatMawapres(masterCumlaude);
     }
 }
